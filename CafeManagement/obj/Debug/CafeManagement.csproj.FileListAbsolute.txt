@@ -1,0 +1,60 @@
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\bin\Debug\Guna.UI2.dll
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Dashboard.resources
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_Welcom.resources
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_AddItems.resources
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_PlaceOrder.resources
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_UpdateItems.resources
+C:\Users\Bilal\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_Remove.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_AddItems.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_PlaceOrder.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_Remove.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_UpdateItems.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_Welcom.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Dashboard.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\M BILAL\source\repos\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb
+G:\working\C# project\Projects\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+G:\working\C# project\Projects\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+G:\working\C# project\Projects\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+G:\working\C# project\Projects\CafeManagement\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\working\C# project\Projects\CafeManagement\CafeManagement\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_AddItems.resources
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_PlaceOrder.resources
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_Remove.resources
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_UpdateItems.resources
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AllUserControl.UC_Welcom.resources
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Dashboard.resources
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeMana.82DB308E.Up2Date
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+G:\working\C# project\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb
